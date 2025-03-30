@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arbe The Maniac - Artista Hip Hop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            color: #fff;
+            text-align: center;
+        }
+        header {
+            background-color: #222;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 50px 20px;
+        }
+        .btn {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #ffcc00;
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #e6b800;
+        }
+        footer {
+            background-color: #222;
+            padding: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Arbe The Maniac</h1>
+        <p>MC, escritor y miembro de Dirty Souls Crew</p>
+    </header>
+    <section>
+        <h2>Sobre mí</h2>
+        <p>Arbe The Maniac es un artista de Hip Hop con un estilo denso, abstracto y poético. Fusiona referencias filosóficas, históricas y literarias con un lirismo introspectivo y afilado.</p>
+    </section>
+    <section>
+        <h2>Últimos proyectos</h2>
+        <p>Álbumes recientes: <strong>A-kãra</strong> y <strong>Waterbearer</strong>.</p>
+        <p><a href="https://youtube.com/@dirtysoulscrew" class="btn">Ver en YouTube</a></p>
+    </section>
+    <section>
+        <h2>Contacto</h2>
+        <p>Para colaboraciones y contrataciones, envía un correo a: <strong>contacto@dirtysouls.com</strong></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Arbe The Maniac - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
